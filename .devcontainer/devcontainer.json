@@ -4,7 +4,6 @@
 	"name": "Python",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"dockerComposeFile": [
-		"../compose.yaml",
 		"compose.yaml"
 	],
 
